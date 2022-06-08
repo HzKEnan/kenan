@@ -1,0 +1,8 @@
+[
+   {
+    "indeks": 0,
+    "soal": "Kasa",
+    "jawaban": "Kasap",
+    "deskripsi": "Kasap"
+  },
+]
